@@ -41,7 +41,6 @@ Chosen because it:
 
 ## **Evaluation**
 
-**10-Fold Cross-Validation**
 
 * The model is trained and validated **10 times** on different data splits.
 * Each fold trains the ANN for **100 epochs** using only the **85% training data**.
